@@ -1,0 +1,27 @@
+.tabla1{
+    background-color: hsl(40, 70%, 80%);
+    background-image: url("./fondos/flower.png");
+}
+
+
+html {
+    font-family: "Playpen Sans Deva", cursive;
+}
+
+.Tit_Tec {
+    background-color: rgba(250, 235, 215, 0.658);
+    text-align: center;
+    
+}
+
+.indice {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    gap: 15px;
+    
+}
+
+.indice h2{
+    background-color: aqua;
+}
